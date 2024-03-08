@@ -1,0 +1,1 @@
+SELECT * FROM Trip WHERE town_from Like 'Moscow'
